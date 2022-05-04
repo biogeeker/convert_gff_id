@@ -1,3 +1,7 @@
+"""
+Author: https://github.com/kataksk/convert_gff_id 
+"""
+
 import sys
 
 prefix = sys.argv[1]
